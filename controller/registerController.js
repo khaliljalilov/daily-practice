@@ -16,7 +16,7 @@ const handleNewUser =async (req, res) => {
         return res.status(403).json({ 'message': "user and password is empty" })
     }
 
-    const dublicate = await dataDB.users.find((person) => person.username === name)
+    const dublicate = await dataDB.users.find(person => person.username === name)
 
     if (dublicate) {
         return res.status(409).json({ 'message': "this user already exist" })

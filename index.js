@@ -7,6 +7,8 @@ const PORT = process.env.PORT || 4000
 
 app.use(express.json())
 app.use('/', require('./router/register'))
+app.use('/' , require('./router/auth'))
+app.use('/', require('./router/refresh'))
 
 
 app.listen(PORT,()=>{
