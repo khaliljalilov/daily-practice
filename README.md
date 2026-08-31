@@ -1,26 +1,26 @@
-# 🚀 Java Daily Practice & Learning
+# 🚀 Java Daily Practice & Problem Solving
 
-My personal repository dedicated to mastering Core Java, Object-Oriented Programming (OOP), and algorithmic problem-solving.
+My personal repository dedicated to mastering Core Java, Object-Oriented Programming (OOP), and algorithmic logic. 
+
+All solutions and progress are automatically synchronized directly from coding platforms.
 
 ---
 
-## 🛠️ Tech Stack & Learning Platforms
+## 🛠️ Tech Stack & Learning Track
 - **Language:** Java (JDK 17+)
-- **Platforms:** Exercism (Java Track), Codewars
-- **Version Control:** Git & GitHub (Auto-synced via Extensions)
+- **Platforms:** Exercism (Java Track) | Codewars
+- **Automation:** Auto-synced via CLI & GitHub Integration
 
 ---
 
-## 🎯 Core Concepts Covered
-- [x] **Java Fundamentals** *(Variables, Primitive Types, Operations)*
-- [x] **Control Flow** *(Conditionals, Switch Statements)*
-- [x] **Data Types & Manipulation** *(Strings, Booleans, Type Casting, Nulls)*
-- [ ] **Object-Oriented Programming** *(Classes, State & Behavior, Inheritance, Interfaces)*
+## 🎯 Core Java Roadmap
+- [x] **Java Fundamentals** *(Variables, Primitive Types, Basic Syntax)*
+- [x] **Booleans & Logic** *(Conditional Statements, Expressions)*
+- [x] **Strings & Null Safety** *(String Manipulation, Null Handling)*
+- [/] **Object-Oriented Programming** *(Classes, Objects, Methods, Encapsulation)*
 - [ ] **Data Structures** *(Arrays, Lists, Maps, Sets)*
-- [ ] **Algorithms & Logic** *(Loops, Recursion, Problem Solving)*
+- [ ] **Algorithms & Control Flow** *(Loops, Recursion, Sorting)*
 
 ---
 
-## 📊 Automated Activity Stats
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaliljalilov&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaliljalilov&layout=compact&theme=radial)
+> 💡 *Check the repository folders to view individual exercise solutions, test cases, and code iterations.*
