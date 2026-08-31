@@ -1,26 +1,34 @@
-# 🚀 Java Daily Practice & Problem Solving
+# Java Daily Practice & Problem Solving
 
-My personal repository dedicated to mastering Core Java, Object-Oriented Programming (OOP), and algorithmic logic. 
+A personal repository for learning and practicing Core Java, Object-Oriented Programming (OOP), and problem-solving.
 
-All solutions and progress are automatically synchronized directly from coding platforms.
+The goal is to strengthen Java fundamentals, improve problem-solving skills, and gradually develop better coding practices with a focus on clean and readable code.
 
 ---
 
-## 🛠️ Tech Stack & Learning Track
+## 🛠️ Tech Stack
+
 - **Language:** Java (JDK 17+)
-- **Platforms:** Exercism (Java Track) | Codewars
-- **Automation:** Auto-synced via CLI & GitHub Integration
+- **Practice:** Exercism (Java Track), Codewars
+- **Version Control:** Git & GitHub
 
 ---
 
-## 🎯 Core Java Roadmap
-- [x] **Java Fundamentals** *(Variables, Primitive Types, Basic Syntax)*
-- [x] **Booleans & Logic** *(Conditional Statements, Expressions)*
-- [x] **Strings & Null Safety** *(String Manipulation, Null Handling)*
-- [/] **Object-Oriented Programming** *(Classes, Objects, Methods, Encapsulation)*
-- [ ] **Data Structures** *(Arrays, Lists, Maps, Sets)*
-- [ ] **Algorithms & Control Flow** *(Loops, Recursion, Sorting)*
+## 🎯 Learning Roadmap
+
+- [x] **Java Fundamentals** — Variables, Primitive Types, Basic Syntax
+- [x] **Booleans & Logic** — Conditional Statements, Expressions
+- [x] **Strings & Null Handling** — String Manipulation, Null Handling
+- [/] **Object-Oriented Programming** — Classes, Objects, Methods, Encapsulation
+- [ ] **Data Structures** — Arrays, Lists, Maps, Sets
+- [ ] **Algorithms & Control Flow** — Loops, Recursion, Sorting
 
 ---
 
-> 💡 *Check the repository folders to view individual exercise solutions, test cases, and code iterations.*
+## 📚 Practice
+
+Most exercises in this repository come from the Exercism Java Track.
+
+The solutions are organized under `solutions/java/` and include individual exercises and their corresponding test cases.
+
+The repository will grow alongside my Java learning process, with new exercises and topics added over time.
